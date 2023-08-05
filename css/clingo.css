@@ -1,0 +1,17 @@
+/* This file is released under the MIT license.
+See LICENSE.md.
+
+The code in this file is taken (in modified form) from:
+https://github.com/potassco/potassco.github.io */
+
+.hlist {
+  display: block;
+}
+.hlist li {
+  display: inline;
+  padding-right: .7em;
+  padding-left: .7em;
+}
+.center {
+  text-align:center;
+}
